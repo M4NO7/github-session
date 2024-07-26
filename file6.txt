@@ -1,0 +1,1 @@
+This is file6 commit from visual studio code into the remote repo
